@@ -11,7 +11,7 @@ package-lock.json
 
 # production
 dist
-lib
+#lib
 build
 demo-dist
 
